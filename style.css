@@ -1,0 +1,32 @@
+.bodystyle {
+    background-color: #fbf0db;
+    text-align: center;
+}
+
+.page1 {
+    text-align: center;
+    color: #E7AD99;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.center {
+    background-color: #E7AD99;
+    padding: 90px;
+    margin-top: 250px;
+    border: none;
+    border-radius: 100px;
+}
+
+.pageselector {
+    margin-top: 250px;
+    padding: 10px 200px;
+    background-color: #E7AD99;
+    border-color: #ce796b;
+    border-width: 3px;
+    border-radius: 15px;
+}
+
+.sliderbackground {
+    
+}
