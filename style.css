@@ -28,5 +28,10 @@
 }
 
 .sliderbackground {
-    
+    background-color: #E7AD99;
+    margin-top: 30px;
+    padding: 10px 220px;
+    border-color: #ce796b;    
+    border: none;
+    border-radius: 15px;
 }
